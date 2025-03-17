@@ -1,0 +1,148 @@
+{
+    "title": "Joel Medina Morales | Portafolio",
+    "description": "Soy Joel Medina, estudiante de la carrera de Ingenieria en Informatica",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Joel Medina Morales",
+    "skill": "Estudiante en Ing. Informatica en Duoc UC",
+    "location": "Santiago, Region Metropolitana, Chile",
+    "media": {
+        "email": "joelmedinamorales2001@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/jjmmcode",
+        "likedin": "https://linkedin.com/in/thomasanderson"
+    },
+    "about": "Soy un estudiante en ingenieria en informatica, con la disposicion y motivacion para el desarrollo de la carrera, comprometido, responsable y con la capacidad de para asumir nuevos conocimientos que me permitan seguir avanzando presonal, laboral y profesionalmente.",
+    "technologies": [
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "Base de Datos - MEDIO"
+        },
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "PLSQL - MEDIO"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML5 - ALTO"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS3 - ALTO"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavasCript - MEDIO"
+        },
+        {
+            "icon": "devicon-typescript-plain",
+            "name": "TypeCript - MEDIO"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python - MEDIO"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java - BAJO"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C# - BAJO"
+        },
+        {
+            "icon": "devicon-ionic-original",
+            "name": "Ionic"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Metacortex",
+            "subtitle": "Programador",
+            "description": "Programo software respetable desde un cubículo.",
+            "date": "1999"
+        },
+        {
+            "icon": "rabbit",
+            "title": "Nebuchadnezzar",
+            "subtitle": "El Elegido",
+            "description": "Me encargo de salvar el mundo.",
+            "date": "1999 - Actualidad"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "APP marcado de asistencia mediante codigo QR",
+            "subtitle": "APP realizada en equipo",
+            "description": "App que marca la asistencia mediante un codigo QR.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
+                }
+            ],
+            "image": "/project_1.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Hackeo Matrix",
+            "subtitle": "Mi obra maestra",
+            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binario"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "backpack",
+            "title": "Instituto Profesional Duoc UC",
+            "subtitle": "Instituto Profesional",
+            "description": "Aprendi a realizar analisis y desarrollo de modelo de datos, realice trabajos los cuales requerian correcciones en la calidad de software, aprendi a programar, realice analisis y planificaciones de requerimientos informaticos.",
+            "date": "2022 - Presente",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Owen Patterson High",
+            "subtitle": "Otra escuela",
+            "description": "Aprendí más cosas.",
+            "date": "Indeterminado",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
